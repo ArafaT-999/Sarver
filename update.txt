@@ -1,1 +1,3 @@
-
+[FBAN/FB4A;FBAV/459.802.614.420;FBBV/907842006;FBDM/{density=1.0,width=1381,height=2919};FBLC/en_US;FBRV/0;FBCR/Verizon;FBMF/Motorola;FBBD/Motorola;FBPN/com.facebook.katana;FBDV/Pixel 2;FBSV/14;FBOP/19;FBCA/armeabi-v7a;]
+[FBAN/FB4A;FBAV/767.809.713.705;FBBV/073771634;FBDM/{density=3.2,width=1249,height=2218};FBLC/en_US;FBRV/0;FBCR/Sprint;FBMF/BlackBerry;FBBD/BlackBerry;FBPN/com.facebook.katana;FBDV/Nokia 6;FBSV/11;FBOP/19;FBCA/armeabi-v7;]
+V0.1
