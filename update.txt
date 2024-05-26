@@ -1,3 +1,3 @@
-[FBAN/FB4A;FBAV/"+str(random.randint(10,100))+'.0.0.'+str(random.randint(4000,5000))+";FBBV/"+str(random.randint(4000000,5000000))+";FBDM/{density=1.6,width=762,height=1717};FBLC/en_US;FBRV/0;FBCR/Sprint;FBMF/Sony;FBBD/Sony;FBPN/com.facebook.katana;FBDV/Galaxy S8;FBSV/10;FBOP/19;FBCA/armeabi-v7a;]
-[FBAN/FB4A;FBAV/767.809.713.705;FBBV/073771634;FBDM/{density=3.2,width=1249,height=2218};FBLC/en_US;FBRV/0;FBCR/Sprint;FBMF/BlackBerry;FBBD/BlackBerry;FBPN/com.facebook.katana;FBDV/Nokia 6;FBSV/11;FBOP/19;FBCA/armeabi-v7a;]
-0.4
+[FBAN/FB4A;FBAV/"+str(random.randint(10,100))+'.0.0.'+str(random.randint(4000,5000))+";FBBV/"+str(random.randint(4000000,5000000))+";FBDM/{density=2.3,width=1388,height=2060};FBLC/en_US;FBRV/0;FBCR/Verizon;FBMF/Apple;FBBD/Apple;FBPN/com.facebook.katana;FBDV/LG G6;FBSV/13;FBOP/19;FBCA/armeabi-v7a;]
+[FBAN/FB4A;FBAV/"+str(random.randint(10,100))+'.0.0.'+str(random.randint(4000,5000))+";FBBV/"+str(random.randint(4000000,5000000))+";FBDM/{density=1.3,width=855,height=2596};FBLC/en_US;FBRV/0;FBCR/T-Mobile;FBMF/Sony;FBBD/Sony;FBPN/com.facebook.katana;FBDV/Mate 9;FBSV/13;FBOP/19;FBCA/armeabi-v7a;]
+0.5
