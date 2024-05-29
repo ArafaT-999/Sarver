@@ -1,3 +1,3 @@
 [FBAN/FB4A;FBAV/"+str(random.randint(10,100))+'.0.0.'+str(random.randint(4000,5000))+";FBBV/"+str(random.randint(4000000,5000000))+";FBDM/{density=2.6,width=1340,height=2249};FBLC/en_US;FBRV/0;FBCR/T-Mobile;FBMF/Sony;FBBD/Sony;FBPN/com.facebook.katana;FBDV/Mate 9;FBSV/13;FBOP/19;FBCA/armeabi-v7a;]
-[FBAN/Orca-Android;FBAV/405.0.0.16.112;FBPN/com.facebook.orca;FBLC/en_US;FBBV/466674869;FBCR/&amp;#160-;FBMF/samsung;FBBD/samsung;FBDV/SM-S134DL;FBSV/13;FBCA/arm64-v8a:null;FBDM/{density=1.875,width=720,height=1465};FB_FW/1;]
+[FBAN/FB4A;FBAV/"+str(random.randint(10,100))+'.0.0.'+str(random.randint(4000,5000))+";FBBV/"+str(random.randint(4000000,5000000))+";FBDM/{density=2.1,width=1258,height=1344};FBLC/en_US;FBRV/0;FBCR/Verizon;FBMF/Apple;FBBD/Apple;FBPN/com.facebook.katana;FBDV/Vibe K4;FBSV/15;FBOP/19;FBCA/armeabi-v7a;]
 1.3
