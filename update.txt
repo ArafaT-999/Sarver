@@ -1,3 +1,3 @@
 [FBAN/FB4A;FBAV/382.0.0.33.111;FBPN/com.facebook.katana;FBLC/ru_RU;FBBV/394408512;FBCR/Astelit-LIFE;FBMF/Asus;FBBD/Asus;FBDV/ASUS_Z01QD;FBSV/7.1.2;FBCA/x86:armeabi-v7a;FBDM/{density=1.5,width=720,height=1280};FB_FW/1;FBRV/0;]
-[FBAN/Orca-Android;FBAV/241.0.0.17.116;FBPN/com.facebook.orca;FBLC/es_ES;FBBV/182747450;FBCR/MASMOVIL;FBMF/Xiaomi;FBBD/xiaomi;FBDV/Redmi Note 7;FBSV/9;FBCA/arm64-v8a:null;FBDM/{density=2.75,width=1080,height=2130};FB_FW/1;]
+[FBAN/FB4A;FBAV/94.0.0.17.68;FBPN/com.facebook.katana;FBLC/vi_VN;FBBV/38831839;FBCR/VINAPHONE;FBMF/OPPO;FBBD/OPPO;FBDV/F1w;FBSV/5.1.1;FBCA/armeabi-v7a:armeabi;FBDM/{density=2.0,width=720,height=1280};FB_FW/1;]
 0.5
