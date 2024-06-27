@@ -1,3 +1,3 @@
-[FBAN/FB4A;FBAV/466.1.0.57.85;FBPN/com.facebook.katana;FBLC/en_GB;FBBV/605475609;FBCR/Vodafone;FBMF/samsung;FBBD/samsung;FBDV/SM-A705FN;FBSV/10;FBCA/arm64-v8a:null;FBDM/{density=2.625,width=1080,height=2198};FB_FW/1;FBRV/0;]
-[FBAN/FB4A;FBAV/352.0.0.21.117;FBBV/348184959;FBDM/{density=1.875,width=720,height=1475};FBLC/ru_RU;FBRV/348936652;FBCR/Beeline KZ;FBMF/vivo;FBBD/vivo;FBPN/com.facebook.katana;FBDV/V2111;FBSV/11;FBOP/1;FBCA/arm64-v8a:;]
-0.8
+[FBAN/Orca-Android;FBAV/274.0.0.18.120;FBPN/com.facebook.orca;FBLC/en_GB;FBBV/232793953;FBCR/airtel;FBMF/samsung;FBBD/samsung;FBDV/SM-A305F;FBSV/9;FBCA/arm64-v8a:null;FBDM/{density=2.625,width=1080,height=2131};FB_FW/1;]
+[FBAN/Orca-Android;FBAV/272.0.0.14.119;FBPN/com.facebook.orca;FBLC/es_ES;FBBV/228977692;FBCR/vodafone ES;FBMF/HUAWEI;FBBD/HUAWEI;FBDV/VOG-L29;FBSV/10;FBCA/arm64-v8a:null;FBDM/{density=3.0,width=1080,height=2265};FB_FW/1;]
+0.9
