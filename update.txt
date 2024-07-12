@@ -1,3 +1,3 @@
-[FBAN/Orca-Android;FBAV/393.0.0.18.92;FBPN/com.facebook.orca;FBLC/es_ES;FBBV/440593596;FBCR/Digi.Mobil;FBMF/Xiaomi;FBBD/Redmi;FBDV/2201117SY;FBSV/11;FBCA/arm64-v8a:null;FBDM/{density=2.75,width=1080,height=2177};FB_FW/1;]
+[FBAN/Orca-Android;FBAV/421.0.0.12.61;FBPN/com.facebook.orca;FBLC/en_US;FBBV/502432091;FBCR/T-Mobile;FBMF/samsung;FBBD/samsung;FBDV/SM-S901U;FBSV/13;FBCA/arm64-v8a:null;FBDM/{density=3.0,width=1080,height=2115};FB_FW/1;]
 [FBAN/FB4A;FBAV/354.0.0.22.110;FBBV/350972604;FBDM/{density=3.0,width=1080,height=2110};FBLC/lv_LV;FBRV/0;FBCR/BITE&#17-LV;FBMF/samsung;FBBD/samsung;FBPN/com.facebook.katana;FBDV/SM-A405FN;FBSV/11;FBOP/19;FBCA/arm64-v8a:;]
-0.4
+0.5
