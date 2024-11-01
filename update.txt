@@ -1,3 +1,3 @@
-Dalvik/2.1.0 (Linux; U; Android 7; F5121 Build/TP1A.621813.743) [FBAN/FB4A;FBAV/463.0.0.0.50;FBBV/451606073;FBDM/{density=3.0,width=1080,height=1920};FBLC/en_BD;FBRV/451606073;FBCR/Telkomsel;FBMF/Sony;FBBD/Sony;FBPN/com.facebook.katana;FBDV/F5121;FBSV/7;FBCA/arm64-v8a:;]
+Dalvik/2.3.0 (Linux; U; Android 11; CPH2109 Build/TP1A.901295.524) [FBAN/FB4A;FBAV/482.0.0.0.81;FBBV/455409026;FBDM/{density=2.8,width=1080,height=2400};FBLC/th_Qaau_TH;FBRV/455409026;FBCR/BSNL;FBMF/Oppo;FBBD/Oppo;FBPN/com.facebook.katana;FBDV/CPH2109;FBSV/11;FBCA/arm64-v8a:;]
 Dalvik/2.1.0 (Linux; U; Android 8; ZB555KL Build/RD2A.918035.363) [FBAN/FB4A;FBAV/427.0.0.31.63;FBBV/444411021;FBDM/{density=2.7,width=720,height=1440};FBLC/en_BM;FBRV/444411021;FBCR/Vodacom;FBMF/Asus;FBBD/Asus;FBPN/com.facebook.katana;FBDV/ZB555KL;FBSV/8;FBCA/armeabi-v7a:armeabi;]
-0.3
+0.4
