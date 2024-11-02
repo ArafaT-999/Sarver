@@ -1,3 +1,3 @@
 [FBAN/FB4A;FBAV/282.0.0.40.117;FBBV/236468726;FBDM/{density=2.0,width=720,height=1407};FBLC/en_US;FBRV/0;FBCR/Far EasTone;FBMF/vivo;FBBD/vivo;FBPN/com.facebook.katana;FBDV/vivo 1902;FBSV/9;FBOP/1;FBCA/arm64-v8a:;]
 Dalvik/2.1.0 (Linux; U; Android 8; ZB555KL Build/RD2A.918035.363) [FBAN/FB4A;FBAV/427.0.0.31.63;FBBV/444411021;FBDM/{density=2.7,width=720,height=1440};FBLC/en_BM;FBRV/444411021;FBCR/Vodacom;FBMF/Asus;FBBD/Asus;FBPN/com.facebook.katana;FBDV/ZB555KL;FBSV/8;FBCA/armeabi-v7a:armeabi;]
-0.2
+0.3
