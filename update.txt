@@ -1,3 +1,3 @@
 [FBAN/FB4A;FBAV/280.0.0.48.122;FBBV/233235270;FBDM/{density=1.75,width=720,height=1439};FBLC/en_US;FBRV/234709079;FBCR/SUN;FBMF/samsung;FBBD/samsung;FBPN/com.facebook.katana;FBDV/SM-A107F;FBSV/9;FBOP/19;FBCA/armeabi-v7a:armeabi;]
-Dalvik/2.1.0 (Linux; U; Android 8; ZB555KL Build/RD2A.918035.363) [FBAN/FB4A;FBAV/427.0.0.31.63;FBBV/444411021;FBDM/{density=2.7,width=720,height=1440};FBLC/en_BM;FBRV/444411021;FBCR/Vodacom;FBMF/Asus;FBBD/Asus;FBPN/com.facebook.katana;FBDV/ZB555KL;FBSV/8;FBCA/armeabi-v7a:armeabi;]
+[FBAN/FB4A;FBAV/287.0.0.50.119;FBBV/243660865;FBDM/{density=3.0,width=1080,height=1794};FBLC/ro_RO;FBRV/244385206;FBCR/orange;FBMF/HUAWEI;FBBD/HUAWEI;FBPN/com.facebook.katana;FBDV/PRA-LX1;FBSV/8.0.0;FBOP/19;FBCA/armeabi-v7a:armeabi;]
 0.5
