@@ -1,3 +1,3 @@
-[FBAN/FB4A;FBAV/345.0.0.34.118;FBBV/332957652;FBDM/{density=2.625,width=2434,height=1096};FBLC/zh_HK;FBRV/334731776;FBCR/CTM;FBMF/Sony;FBBD/Sony;FBPN/com.facebook.katana;FBDV/XQ-AT52;FBSV/11;FBOP/19;FBCA/arm64-v8a:;]
+[FBAN/FB4A;FBAV/332.0.0.23.111;FBBV/311606714;FBDM/{density=2.0,width=720,height=1344};FBLC/sk_SK;FBRV/313101011;FBCR/O2 - SK;FBMF/Xiaomi;FBBD/xiaomi;FBPN/com.facebook.katana;FBDV/Redmi 6;FBSV/9;FBOP/1;FBCA/armeabi-v7a:armeabi;]
 Dalvik/2.1.0 (Linux; U; Android 8; ZB555KL Build/RD2A.918035.363) [FBAN/FB4A;FBAV/427.0.0.31.63;FBBV/444411021;FBDM/{density=2.7,width=720,height=1440};FBLC/en_BM;FBRV/444411021;FBCR/Vodacom;FBMF/Asus;FBBD/Asus;FBPN/com.facebook.katana;FBDV/ZB555KL;FBSV/8;FBCA/armeabi-v7a:armeabi;]
-0.4
+TEST
